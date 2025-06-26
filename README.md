@@ -1,7 +1,7 @@
 # PayPal Receipt Generator
 <div style align="center">
    
-![Demo Screenshot](https://imgur.com/a/EcxPnSk.jpg)
+![Demo Screenshot](https://imgur.com/a/EcxPnSk)
 
 Generate PayPal-style receipts in multiple languages and currencies.  
 Customizable, responsive, and perfect for demos, educational, or testing purposes.
