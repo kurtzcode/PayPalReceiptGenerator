@@ -5,7 +5,7 @@
 
 </div>
 
-![Demo Screenshot](assets/demo.png)
+![Demo Screenshot](https://imgur.com/a/EcxPnSk)
 
 Generate PayPal-style receipts in multiple languages and currencies.  
 Customizable, responsive, and perfect for demos, educational, or testing purposes.
